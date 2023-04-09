@@ -2,6 +2,7 @@
 First Azure app with VS code
 
 sibghah ieman 
-CMS 24995
+CMS 2495
 
 .........
+MS DevOps project
